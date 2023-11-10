@@ -1,0 +1,6 @@
+﻿  2_lab_Matvienko_A_3372.cpp
+D:\progs\2_lab_Matvienko_A_3372\2_lab_Matvienko_A_3372\2_lab_Matvienko_A_3372.cpp(13,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\progs\2_lab_Matvienko_A_3372\2_lab_Matvienko_A_3372\2_lab_Matvienko_A_3372.cpp(157,25): warning C4305: инициализация: усечение из "double" в "float"
+D:\progs\2_lab_Matvienko_A_3372\2_lab_Matvienko_A_3372\2_lab_Matvienko_A_3372.cpp(287,17): warning C4101: indexNotSorted: неиспользованная локальная переменная
+D:\progs\2_lab_Matvienko_A_3372\2_lab_Matvienko_A_3372\2_lab_Matvienko_A_3372.cpp(288,17): warning C4101: indexSorted: неиспользованная локальная переменная
+  2_lab_Matvienko_A_3372.vcxproj -> D:\progs\2_lab_Matvienko_A_3372\x64\Debug\2_lab_Matvienko_A_3372.exe
